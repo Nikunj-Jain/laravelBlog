@@ -1,7 +1,7 @@
 @extends('layouts.app')
 @section('content')
 <h1>
-    About
+    {{$title}}
 </h1>
 <p>
     This is the about page from the laravel course
